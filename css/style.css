@@ -665,7 +665,7 @@ body.dark .loader_line:after{
 }
 .iknow_tm_hero .right{
 	width: 50%;
-	padding-left: 0px;
+	padding-left: 30px;
 }
 .iknow_tm_hero .right .image{
 	position: relative;
